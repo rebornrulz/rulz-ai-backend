@@ -1,4 +1,4 @@
-The chatbot-ui backend alternative.
+The rulz-ai backend alternative.
 
 ## Motivation
 
