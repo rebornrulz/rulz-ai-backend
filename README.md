@@ -13,8 +13,8 @@ cp .env.example .env
 ```
 
 ```bash
-git clone https://github.com/rebornrulz/rulz-ai-backend.git
-cd rulz-ai-backend
+git clone https://github.com/rebornrulz/rulz-ai.git
+cd rulz-ai
 make build
 cd ..
 
