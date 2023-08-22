@@ -15,14 +15,14 @@ cp .env.example .env
 ```bash
 git clone https://github.com/rebornrulz/rulz-ai.git
 cd rulz-ai
-make build
-cd ..
+npm run build
 
 # launch rulz-ai and nginx.
 docker compose up -d
 ```
 
 ```bash
+cd ..
 pip install -r requirements.txt
 uvicorn src.main:app
 ```
