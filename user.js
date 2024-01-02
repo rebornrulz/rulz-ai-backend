@@ -4,7 +4,7 @@
         "isVerified": true,
         "hasPassword": false,
         "signInMethod": "github",
-        "email": "R3b0rnrulz@gmail.com",
+        "email": "reborn@rulz-ai.com",
         "providerUserId": "77287878"
     },
     "name": "Reborn Rulz",
