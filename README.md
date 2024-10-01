@@ -13,8 +13,8 @@ cp .env.example .env
 ```
 
 ```bash
-git clone https://github.com/rebornrulz/multi-container.git
-cd multi-container
+git clone https://github.com/rebornrulz/gemini-ai-chatbot.git
+cd gemini-ai-chatbot
 npm run build
 
 # launch rulz-ai and nginx.
